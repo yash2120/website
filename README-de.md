@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
 
 Herzlich willkommen! Dieses Repository enthält alle Assets, die zur Erstellung der [Kubernetes-Website und Dokumentation](https://kubernetes.io/) erforderlich sind. Wir freuen uns sehr, dass Sie dazu beitragen wollen!
-
+dass Sie dazu beitragen wollen!
 ## Beiträge zur Dokumentation
 
 Sie können auf die Schaltfläche **Fork** im oberen rechten Bereich des Bildschirms klicken, um eine Kopie dieses Repositorys in Ihrem GitHub-Konto zu erstellen. Diese Kopie wird als *Fork* bezeichnet. Nehmen Sie die gewünschten Änderungen an Ihrem Fork vor. Wenn Sie bereit sind, diese Änderungen an uns zu senden, gehen Sie zu Ihrem Fork und erstellen Sie eine neue Pull-Anforderung, um uns darüber zu informieren.
